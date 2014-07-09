@@ -71,7 +71,6 @@ port feed
 				<img  width="250" height="100" a>
 
 				
-
 				<p style="  font-family: futura; font-weight: 100; font-size: 25px; width:200px; height:30px; margin: -15px 0 0 -100px;  left:67%; top:31%; position:relative; " href="#">Get started</p>
 
 			</li>
