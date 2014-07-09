@@ -69,7 +69,7 @@ port feed
 			</li>
 			<li class="example-item" id="modal">
 				<img  width="250" height="100" a>
-				<p style="  font-family: futura; font-weight: 100; font-size: 25px; width:200px; height:30px; margin: -15px 0 0 -100px;  left:67%; top:31%; position:relative; " href="#">Get started</p>
+				<p style="  font-family: futura; font-weight: 100; font-size: 25px; width:200px; height:30px; margin: -15px 0 0 -100px;  left:67%; top:31%; position:relative; " href="#">Get gtarted</p>
 			</li>
 			<li style="display:none;" class="example-item" id="modal-ajax">
 				<img src="assets/images/example-4.jpg" width="196" height="147" alt="Example 4">
