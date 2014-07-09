@@ -70,9 +70,9 @@ port feed
 			<li class="example-item" id="modal">
 				<img  width="250" height="100" a>
 <<<<<<< HEAD
-				<p style="  font-family: futura; font-weight: 100; font-size: 25px; width:200px; height:30px; margin: -15px 0 0 -100px;  left:67%; top:31%; position:relative; " href="#">started</p>
+				<p style="  font-family: futura; font-weight: 100; font-size: 25px; width:200px; height:30px; margin: -15px 0 0 -100px;  left:67%; top:31%; position:relative; " href="#">Get started</p>
 =======
-				<p style="  font-family: futura; font-weight: 100; font-size: 25px; width:200px; height:30px; margin: -15px 0 0 -100px;  left:67%; top:31%; position:relative; " href="#">Get gtarted</p>
+				<p style="  font-family: futura; font-weight: 100; font-size: 25px; width:200px; height:30px; margin: -15px 0 0 -100px;  left:67%; top:31%; position:relative; " href="#">Get started</p>
 >>>>>>> 1ed85eabd9765b1684781ad288f0657f0b449bfc
 			</li>
 			<li style="display:none;" class="example-item" id="modal-ajax">
