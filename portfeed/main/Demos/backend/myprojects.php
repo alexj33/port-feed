@@ -46,19 +46,7 @@
 
 
 
-<a href="profile.php">
-<div class="avatar" style=" position: absolute; z-index: 999999999; ">
-<img 
- src="uploads/avatar.jpg"  style="min-height:130px; min-width:150px; max-height: 150px;  clip: rect(0px, 150px, 130px, 0px); position: absolute; top: 0px; margin: 38 38; left:0%; z-index: 999999; "   />
-<p style="position:relative; top:33%; font-family:futura; font-size: 35px; left: 53%; ">
-   <?php echo $_SESSION['jigowatt']['username']; ?>
 
-
-
-       
-
-</div>
-</a>
 
 <div class="menu" class="nosel" style=" z-index: 999999; width:150px; height:100%; position:fixed; left:0%; top: 0%; background:black;   ">
 
@@ -68,29 +56,34 @@
  
 </p>
 </div>
+<a href="profile.php">
+<div class="avatar" style=" ">
+<img src="images/avatar.svg" width="70" height="70" style="position: absolute; top: 25px; margin: 38 38; left:27%; z-index: 999999; "   />
+<p style="position:relative; top:33%; font-family:futura; font-size: 35px; left: 53%; ">
+   <?php echo $_SESSION['jigowatt']['username']; ?>
 
-<div  class="icon">
 
+
+       
 
 </div>
-
-
+</a>
 <a href="feed.php">
 <div  class="icon">
 
 
-<img src="images/feed.svg" width="70" height="70" style="position: absolute; top: 160px; margin: 38 38; left:27%; " href="feed.html" />
+<img src="images/feed.svg" width="70" height="70" style="position: absolute; top: 150px; margin: 38 38; left:27%; " href="feed.html" />
 
 </div>
 </a>
 <div class="icon">
 <a style="width: 100%; height: 130px; position:absolute; z-index: 999999;  " href="javascript:;" onClick="document.getElementById('hideaway').style.display='block'; "> </a>
-<img src="images/search.svg" width="70" height="70" style="position: absolute; top: 290px; margin: 38 38; left:27%; "  />
+<img src="images/search.svg" width="70" height="70" style="position: absolute; top: 280px; margin: 38 38; left:27%; "  />
 </div>
 
 <a href="myprojects.php">
 <div class="icon">
-<img src="images/projects.svg" width="70" height="70" style="position: absolute; top: 420px; margin: 38 38; left:27%; "  />
+<img src="images/projects.svg" width="70" height="70" style="position: absolute; top: 410px; margin: 38 38; left:27%; "  />
 </div>
 </a>
 

@@ -50,8 +50,8 @@ function fill() {
 fill();
 
 ctx.lineWidth = 20;
-ctx.strokeStyle = '#9ce2e0';
-ctx.fillStyle = '#9ce2e0';
+ctx.strokeStyle = '#1feded';
+ctx.fillStyle = '#1feded';
 
 function loop() {
 

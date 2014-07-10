@@ -95,8 +95,8 @@ width: 210px;
 
 .avatar {
 background: #9ce2e0;
-width:151px;
-height: 120px;
+width:150px;
+height: 130px;
 color: transparent;
 
 transition: all 0.2s ease-in-out;
@@ -105,8 +105,8 @@ transition: all 0.2s ease-in-out;
 
 .avatar:hover {
 background: #8bd1ce;
-width:300%;
-height: 120px;
+width:500px;
+height: 130px;
 color: white;
 
 transition: all 0.2s ease-in-out;
