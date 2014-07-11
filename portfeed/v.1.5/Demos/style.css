@@ -1,0 +1,50 @@
+.nosel
+{
+
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+    
+}
+
+.signup
+{
+
+border-color: #000000;
+    border-width: 1px;
+    border-style: solid;
+    width:250px;
+    height: 100px;
+    margin: -50px 0 0 -125px;
+    left:50%;
+     top:70%;
+   color: black;
+    background-color:white;
+    cursor: pointer;
+    font-weight: bold;
+
+transition: all 0.3s ease-in-out;
+    
+}
+
+.signup:hover
+{
+    
+
+	 background-color: black;
+    width:250px;
+    height: 100px;
+    margin: -50px 0 0 -125px;
+    left:50%;
+     top:70%;
+     color: white;
+     font-weight: bold;
+   
+}
+
+
+
+
